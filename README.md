@@ -29,7 +29,7 @@ To foster an environment where AI projects can collectively fund development, wh
 
 1. **Project Proposals**
    - Projects submit Development Requests (DRs)
-   - DRs must benefit multiple AI or blockchain use cases
+   - DRs must benefit multiple projects with AI features on Metis L2
    - Clear documentation of requirements and success criteria
 
 2. **Funding Mechanism**

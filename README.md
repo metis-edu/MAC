@@ -99,9 +99,8 @@ MAC operates independently of Metis, structured as a community-led initiative fo
 
 ## Resources
 
-- Metis Governance Forum (CEG) - For ongoing discussions and proposals
-- GitHub Repository - For code contributions and documentation
-- Development Request Template - For standardized DR submissions
+- Metis Governance Forum (CEG) - For ongoing discussions and proposals: https://forum.ceg.vote/t/metis-ai-community/3866
+- GitHub Repository - For code contributions and documentation: https://github.com/metis-edu/MAC
 
 ## Contact
 

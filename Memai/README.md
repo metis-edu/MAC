@@ -5,7 +5,7 @@
 **Submission Date:** [Insert Date]
 **Deadline:** 1 Month from Assignment  
 **Bounty Reward:** $180 worth of tokens  
-**Repo for Submission:** Metis Edu GitHub  
+**Repo for Submission:** Metis Edu GitHub: https://github.com/metis-edu/MAC
 **License:** Open-source (MIT or similar)
 
 ## Overview
@@ -49,6 +49,7 @@ This Development Request (DR) aims to enhance an AI-driven NFT minting process b
 
 ## Apply Now!
 Interested in taking on this bounty? Reply in the MAC forum, comment on this DR, or submit your proposal directly on GitHub!
+MAC Forum: https://forum.ceg.vote/t/metis-ai-community/3866
 
 ---
 Let's build decentralized AI tooling for NFTs on Metis!
